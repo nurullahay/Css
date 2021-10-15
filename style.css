@@ -1,0 +1,60 @@
+body {
+    background-image: url("https://cdn.pixabay.com/photo/2017/03/31/15/34/cactus-2191647__340.jpg");
+    opacity: 0,7;   
+    text-align: center;
+} 
+#pic{
+    width: fit-content;
+}
+
+#first {
+    font-size: 50px;
+    font-family: 'Rampart One', cursive;
+    color: steelblue;
+}
+
+.link {
+    font-size: 35px;
+}
+
+.baslik {
+    font-size: 35px;
+    font-family: 'Rampart One', cursive;
+    color: green;
+}
+
+.baslik3 {
+    font-size: 27px;
+    color: darkgreen;
+}
+
+img{
+    width: 600px;
+    height: 600px;
+    border: 2px solid darkgreen ;
+}
+ .aciklama {
+     font-size: 25px;
+     margin-left: 300px;
+     margin-right: 300px;
+ }
+
+ p {
+     font-size: 30px;
+ }
+
+ .firstdiv {
+    font-size: 25px;
+ }
+
+ .baslik2{
+
+    font-size: 30px;
+    color: darkgreen;
+    font-family: 'Courier New', Courier, monospace;
+ }
+
+ .names{
+     font-size: 20px;
+     color: black;
+ }
