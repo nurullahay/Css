@@ -1,5 +1,6 @@
 body {
     text-align: center;
+    font-family: sans-serif;
 }
 #background {
     background-image: url("https://cdn.pixabay.com/photo/2017/03/31/15/34/cactus-2191647__340.jpg");
@@ -21,7 +22,6 @@ body {
 
 #first {
     font-size: 50px;
-    font-family: 'Rampart One', cursive;
     color: steelblue;
 }
 
@@ -31,7 +31,6 @@ body {
 
 .baslik {
     font-size: 35px;
-    font-family: 'Rampart One', cursive;
     color: green;
 }
 
@@ -63,7 +62,6 @@ img{
 
     font-size: 30px;
     color: darkgreen;
-    font-family: 'Courier New', Courier, monospace;
  }
 
  .names{
