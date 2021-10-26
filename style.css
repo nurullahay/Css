@@ -4,7 +4,7 @@ body {
 }
 #background {
     background-image: url("https://cdn.pixabay.com/photo/2017/03/31/15/34/cactus-2191647__340.jpg");
-    opacity: 0.7;
+    opacity: 0.2;
     position: fixed;
     top: 0;
     left: 0;
