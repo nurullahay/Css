@@ -11,6 +11,9 @@ body {
     bottom: 0;
     z-index: 0;
 }
+.content {
+    z-index: 1;
+}
 #pic{
     width: fit-content;
 }
